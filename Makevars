@@ -15,8 +15,8 @@ ARCH = amd64
 
 # Where to find the usb drive
 # CAUTION: if set incorrectly you may ruin your system!
-#USBDEV = /dev/null
-USBDEV = /dev/sda
+USBDEV = /dev/null
+#USBDEV = /dev/sda
 
 ############################################################
 # You can probably leave alone everything below this line 
